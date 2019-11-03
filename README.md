@@ -15,6 +15,7 @@ Being able to influence stakeholders is very supportive. In my last role, I coul
 This section is where all of my cool data visualization will go!
 
 [Data Visualization 2](/dataviz2.md)
+
 Source: https://data.oecd.org/gga/general-government-debt.htm
 
 Summary: 
@@ -26,6 +27,12 @@ In the first visualization using the bar chart, we are analyzing information onl
 In the second visualization using the beeswarm plot, we can view the year over year comparison of the data and the county to country comparison.
 
 In the third visualization, I chose to use a scatter plot because I wanted to be able to see the linear progression of the countries’ debt over a span of time. I chose to highlight the two counties with the highest debt, Japan and Greece, to be able to view the slope of their debt growth. 
+
+Each chart has pros and cons. The bar chart is a simple chart that many people are familiar with, therefore making it easy to read and interpret. The challenge is that we can only visualize one year of data. Once you add multiple years into the country categories, you have a lot of information on one chart. 
+The beeswarm chart is nice to be able to see a lot of information on one chart. We can visualize the year, the country, and the amount of debt in a simple way. The one challenge I noticed while using the beeswarm chart was that is was hard to compare the debt of a country to another country. For example, if I want to debt of Luxembourg to the Czech Republic, I could not draw many conclusions. 
+The scatter plot is a nice way to get the country-to-country comparison and the year-to-year comparison. Ideally, I wanted to make a line graph, but was surprised to see that RAWgraphs did not have a simple line graph to chose from. The reason for wanting a line graph over a scatter plot is that you cannot tell which points go with which countries when they are all in gray. Having each country called out with a color would have been distracting and taken away from the message I was trying to display. The scatter plot is still effective though because you can look at each year and see how many countries are above and below Japan and Greece’s line. 
+I spent a lot of time exploring other options using RAW graphs. One challenge I had was that our “Date” information as being read-in as a number and not a date. Many of the time series graphs were not plotting the date correctly because of this and it would have required that I manually change the format of the date from .996 to 1996, so I decided to go with a chart that would use accept a “number” format for the x-axis.
+
 
 ## Big Mac Comparison 
 
