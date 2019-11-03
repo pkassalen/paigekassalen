@@ -15,6 +15,17 @@ Being able to influence stakeholders is very supportive. In my last role, I coul
 This section is where all of my cool data visualization will go!
 
 [Data Visualization 2](/dataviz2.md)
+Source: https://data.oecd.org/gga/general-government-debt.htm
+
+Summary: 
+
+In this data visualization, I am using data about government debt broken down by country. I analyze the data in 3 different ways: a bar chart, a beeswarm plot, and a scatter plot. This data visualization measures the debt per country from the years 1996 to 2018. The larger the dot, the larger the amount of debt. 
+
+In the first visualization using the bar chart, we are analyzing information only from 2015. We can see how debt compares country to country.
+
+In the second visualization using the beeswarm plot, we can view the year over year comparison of the data and the county to country comparison.
+
+In the third visualization, I chose to use a scatter plot because I wanted to be able to see the linear progression of the countries’ debt over a span of time. I chose to highlight the two counties with the highest debt, Japan and Greece, to be able to view the slope of their debt growth. 
 
 ## Big Mac Comparison 
 
