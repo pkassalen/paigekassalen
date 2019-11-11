@@ -61,5 +61,6 @@ Kristin Chase – Friend
     Try and keep things uniform and not too difficult for the reader to go back and forth with a legend. 
     
     
-   
+   ![image](https://user-images.githubusercontent.com/57044626/68556848-def07380-0401-11ea-8213-568aee606fcf.png)
+
 
