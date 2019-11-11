@@ -62,5 +62,6 @@ Kristin Chase – Friend
     
     
    ![image](https://user-images.githubusercontent.com/57044626/68556848-def07380-0401-11ea-8213-568aee606fcf.png)
+   [Tableau - graphic redo 1.zip](https://github.com/pkassalen/paigekassalen/files/3829497/Tableau.-.graphic.redo.1.zip)
 
 
