@@ -59,4 +59,7 @@ Kristin Chase – Friend
 
 •	Is there anything you would change or do differently?
     Try and keep things uniform and not too difficult for the reader to go back and forth with a legend. 
+    
+    
+   
 
