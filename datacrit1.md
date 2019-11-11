@@ -22,7 +22,7 @@ Wire Frams:
 
 To attempt at improving the graphic, I created two different types of wire diagrams that assisted in solving the problems of the orginial graphic and then tested them with 2 people. 
 
-
+![image](https://user-images.githubusercontent.com/57044626/68556693-4b1ea780-0401-11ea-9381-ec7bbbcf721e.png)
 
 Feedback:
 
