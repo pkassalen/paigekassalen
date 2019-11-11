@@ -1,4 +1,4 @@
-Original Graphic:
+Original Graphic: https://www.economist.com/graphic-detail/2019/10/15/far-too-many-of-the-worlds-youngsters-are-overweight
 
 <img src="https://www.economist.com/sites/default/files/images/2019/10/articles/main/20191019_woc954.png" alt="" class="component-image__img blog-post__image-block" srcset="/sites/default/files/imagecache/200-width/images/2019/10/articles/main/20191019_woc954.png 200w,
 /sites/default/files/imagecache/300-width/images/2019/10/articles/main/20191019_woc954.png 300w,
