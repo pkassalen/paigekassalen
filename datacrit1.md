@@ -60,6 +60,9 @@ Kristin Chase – Friend
 •	Is there anything you would change or do differently?
     Try and keep things uniform and not too difficult for the reader to go back and forth with a legend. 
     
+Final Results:    
+
+I took the feedback from my sister and friend and decided on this as my final graphic recreation. I experimented with the graphic that did not divide the data by region, but after revisiting the article, I felt like they make many references to region and it was important. I was concerned about the color breakdown for each region, but I feel like it was necessary to help the user understand quickly which bars correspond to which country. 
     
    ![image](https://user-images.githubusercontent.com/57044626/68556848-def07380-0401-11ea-8213-568aee606fcf.png)
    [Tableau - graphic redo 1.zip](https://github.com/pkassalen/paigekassalen/files/3829497/Tableau.-.graphic.redo.1.zip)
