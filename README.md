@@ -37,7 +37,7 @@ Ideally, I wanted to make a line graph, but was surprised to see that RAWgraphs 
 
 I spent a lot of time exploring other options using RAW graphs. One challenge I had was that our “Date” information as being read-in as a number and not a date. Many of the time series graphs were not plotting the date correctly because of this and it would have required that I manually change the format of the date from .996 to 1996, so I decided to go with a chart that would use accept a “number” format for the x-axis.
 
-[Critique by Design 1](/critbydes1.md)
+[Critique by Design 1](/datacrit1.md)
 
 Source: https://www.economist.com/graphic-detail/2019/10/15/far-too-many-of-the-worlds-youngsters-are-overweight
 
