@@ -14,6 +14,8 @@ Being able to influence stakeholders is very supportive. In my last role, I coul
 
 This section is where all of my cool data visualization will go!
 
+[Final Project](/final_project_PaigeKassalen.md)
+
 [Data Visualization 2](/dataviz2.md)
 
 Source: https://data.oecd.org/gga/general-government-debt.htm
