@@ -17,6 +17,11 @@ My dataset outlines different factors like gender, family income, and location f
 
 # Initial sketches
 
+Here are a few examples of how I will convey the data:
+
+![image](https://user-images.githubusercontent.com/57044626/69016686-b40c9f00-096e-11ea-9695-8fa8718a581d.png)
+
+
 # The Data
 
 My data is "Who Becomes an Inventor in America? The Importance of Exposure to Innovation" and can be found at this link - http://www.equality-of-opportunity.org/data/
