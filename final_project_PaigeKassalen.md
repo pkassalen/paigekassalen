@@ -21,7 +21,7 @@ My dataset outlines different factors like gender, family income, and location f
 
 My data is "Who Becomes an Inventor in America? The Importance of Exposure to Innovation" and can be found at this link - http://www.equality-of-opportunity.org/data/
 
-I will also be pulling information to support the story line from sites like this: https://smallbiztrends.com/2019/03/startup-statistics-small-business.html and https://www.embroker.com/blog/startup-statistics
+I will also be pulling information to support the story line from sites like this: https://smallbiztrends.com/2019/03/startup-statistics-small-business.html, https://facesoffounders.org/the-state-of-inclusive-entrepreneurship-by-the-numbers-be422b8845ed, https://www.statista.com/statistics/693431/rate-of-new-entrepreneurs-by-race-us/ and https://www.embroker.com/blog/startup-statistics
 
 This data set provides data to compare patents granted vs. different factors like city, state, number of kids in the city, gender, family income. Over 100 million start-ups are launched annually, but this dataset will allow me to explore if there are trends in relation to who has the opportunity to create a start-up and become an innovator. I want to break down the patents awarded compared to 4-5 different factors to see which are most influential in getting a patent. The overal goal of my story will be to develop a plan of action to help a diverse range of people become innovators. 
 
