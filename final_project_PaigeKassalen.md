@@ -170,6 +170,12 @@ e. Changes I want to implemented in my sketches, storyboards and wireframes to a
    3. I think having more high-level paragraphs to explain the data will clear up confusion, along with graphs that reflect the data and       are color coded will help. 
 
    4. I want to focus more on other reasons businesses don’t succeed instead of just who becomes an entrepreneur for the                       recommendations. 
+   
+## Revised wireframes / visualizations / storyboards based on what you heard
+
+A working draft of my shorthand final presentation can be found here: https://preview.shorthand.com/JdSAOb13Vkhzg6Ug
+
+I still have a bit of work to complete, but I made adjustments to the 4 points I listed above. I have a transitions for explaining patents clearly, I have one case study, I have some high-level intro paragraphs, and then I have a chart (a little too small right now on my shorthand) that highlights the top reasons small businesses fail. 
 
 	
 ## Mood Board
