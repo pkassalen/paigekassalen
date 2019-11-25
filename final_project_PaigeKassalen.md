@@ -163,11 +163,20 @@ d. The findings from my interview:
 
 e. Changes I want to implemented in my sketches, storyboards and wireframes to address the issues identified: 
 
+   1. I want to take care of is creating transitions. This will help people explain the relevance of patents like Interviewee #2               mentioned. 
+   
+   2. I want to find some case study information about the success of minority business owners to support the data. I had been thinking       that I could only use charts to visualize data, but I should explore case studies as well. 
+   
+   3. I think having more high-level paragraphs to explain the data will clear up confusion, along with graphs that reflect the data and       are color coded will help. 
+
+   4. I want to focus more on other reasons businesses don’t succeed instead of just who becomes an entrepreneur for the                       recommendations. 
+
+	
 ## Mood Board
 
-![image](https://user-images.githubusercontent.com/57044626/69507409-6ceb5480-0f00-11ea-9dee-956c44687a66.png)
+I want bright colors that will allow the data to pop because innovation is a fun subject. 
 
-![image](https://user-images.githubusercontent.com/57044626/69507423-796fad00-0f00-11ea-91ac-0d6ca70996a7.png)
+![image](https://user-images.githubusercontent.com/57044626/69507409-6ceb5480-0f00-11ea-9dee-956c44687a66.png)
 
 ![image](https://user-images.githubusercontent.com/57044626/69507452-9310f480-0f00-11ea-8a97-55e089382748.png)
 
