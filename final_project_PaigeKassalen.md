@@ -47,3 +47,32 @@ I do want to see if there is a way to make my final project interactive and allo
 ![image](https://user-images.githubusercontent.com/57044626/69504871-56d79700-0ef4-11ea-924d-1a2ff90f8661.png)
 ![image](https://user-images.githubusercontent.com/57044626/69504949-e715dc00-0ef4-11ea-8d1e-9dc08ead6c52.png)
 
+## Creation of a user research protocol and completion of three interviews
+
+Research Protocol:
+
+a. The target audience for my story:
+      My target audience is people looking to create their own start-up in the 20-30 year old age range or people who are interested in       learning more about how certain things affect who has the opportunity to become an innovator. The reason this is my audience is         because there is a lot of data out there about how to build a successful business, but it would be helpful to have transparency         around who has the opportunities to become an innovator and have a roadmap to be successful against the odds. 
+      
+b. My approach to identifying representative individuals to interview:
+      1 - I want to interview someone who has started their own company to get their perspective on other factors I might not be               thinking about when it comes to "who becomes the innovator." 
+      
+      2 - I want to interview someone who is fresh out of college and potentially thinking about starting their own company to learn           what information this person might think is interesting.
+      
+      3 - I want to interview someone who identifies as a minority to see what their thoughts are in diversity in entrepreneurship.
+      
+c. Interview script
+      "Hello! I am working on a project focused on effectively communicating the message of a dataset focused around the question "who          becomes the innovator. My goal is to outline the current state of entrepreneurship in the country, break down the current state          by different demographics (race, gender, etc.), analyze 4-5 factors that influence who is granted a patent, generate the high-          level trends from the data, and then propose recommendations if you are looking to start a business. 
+      
+      Q1: What is your first high-level takeaway from the story board?
+      Q2: How long does it take you to understand the story?
+      Q3: What parts are confusing?
+      Q4: What would you like to see more of? Less of?
+      Q5: What do you think is missing?
+      Q6: Is this story interesting? Why or why not? 
+      Q7: After reviewing this, what does the story make you want to do?
+      
+      Thank you for your help!"
+
+d. The findings from my interview:
+e. Changes I want to implemented in my sketches, storyboards and wireframes to address the issues identified: 
