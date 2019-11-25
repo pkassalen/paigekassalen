@@ -56,9 +56,9 @@ a. The target audience for my story:
       
 b. My approach to identifying representative individuals to interview:
    
-         1 - I want to interview someone who has started their own company to get their perspective on other factors I might not be               thinking about when it comes to "who becomes the innovator." 
+         1 - I want to interview someone who has started their own company to get their perspective on other factors I might not be thinking about when it comes to "who becomes the innovator." 
 
-         2 - I want to interview someone who is fresh out of college and potentially thinking about starting their own company to learn           what information this person might think is interesting.
+         2 - I want to interview someone who is fresh out of college and potentially thinking about starting their own company to learn  what information this person might think is interesting.
 
          3 - I want to interview someone who identifies as a minority to see what their thoughts are in diversity in entrepreneurship.
       
