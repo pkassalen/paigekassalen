@@ -37,3 +37,7 @@ In my previous job, I led a project to create a virtual reality experience so I 
 I will most likely use Shorthand because I have not used it before and I think it would be good to learn. I want to include a lot of visualizations rather than words on my Shorthand project because I am going to see if the data can convey the message rather than support the words. 
 
 I do want to see if there is a way to make my final project interactive and allow the viewers to craft their own story, but still get to the same conclusion. 
+
+# Storyboard
+
+
