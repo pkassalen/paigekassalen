@@ -135,9 +135,40 @@ d. The findings from my interview:
       Q7: After reviewing this, what does the story make you want to do?
 	I don’t think I want to really do anything, but I think it’s important for me to keep in the back of my mind. 
 	
+   Interview 3:
+
+	  Q1: What is your first high-level takeaway from the story board?
+		 Focus on the importance of diversity in businesses and a lot of data about demographics of entrepreneurs 
+
+	  Q2: How long does it take you to understand the story?
+		 I think for the graphs it took me long because there was not a lot of information. I think with final graphs that are color coordinated, it will be helpful to fully understand the story. 
+
+	  Q3: What parts are confusing?
+		 I think you don’t have much transition from section to section. Like how can you seamlessly move from the what to the why to the data to the recommendations and make it feel like a story. 
+
+	  Q4: What would you like to see more of? Less of?
+		More: Breakdown by each demographic so people can be connected to the story no matter who they are. 
+
+		Less: Stating facts without explanation. 
+
+	  Q5: What do you think is missing?
+		 I think you should have more substance in the recommendation slide because that will tie everything together and leave the reader remembering why the story matters. 	 
+
+	  Q6: Is this story interesting? Why or why not? 
+		I think so. I think if I were interested in starting a business as a minority, it is important to see the facts that I’m up against for things out of my control. 
+
+	  Q7: After reviewing this, what does the story make you want to do?
+		I think I want to explore what unmet needs I can solve that are distinct to the group I identify with. Maybe it would be cool for you to include some information about success stories of minority entrepreneurs. 
 
 
 e. Changes I want to implemented in my sketches, storyboards and wireframes to address the issues identified: 
 
 ## Mood Board
 
+![image](https://user-images.githubusercontent.com/57044626/69507409-6ceb5480-0f00-11ea-9dee-956c44687a66.png)
+
+![image](https://user-images.githubusercontent.com/57044626/69507423-796fad00-0f00-11ea-91ac-0d6ca70996a7.png)
+
+![image](https://user-images.githubusercontent.com/57044626/69507452-9310f480-0f00-11ea-8a97-55e089382748.png)
+
+![image](https://user-images.githubusercontent.com/57044626/69507476-ab810f00-0f00-11ea-8d51-5016419884da.png)
