@@ -64,7 +64,7 @@ b. My approach to identifying representative individuals to interview:
       
 c. Interview script: 
 
-      "Hello! I am working on a project focused on effectively communicating the message of a dataset focused around the question "who          becomes the innovator. My goal is to outline the current state of entrepreneurship in the country, break down the current state          by different demographics (race, gender, etc.), analyze 4-5 factors that influence who is granted a patent, generate the high-          level trends from the data, and then propose recommendations if you are looking to start a business. 
+   "Hello! I am working on a project focused on effectively communicating the message of a dataset focused around the question "who         becomes the innovator. My goal is to outline the current state of entrepreneurship in the country, break down the current state         by different demographics (race, gender, etc.), analyze 4-5 factors that influence who is granted a patent, generate the high-           level trends from the data, and then propose recommendations if you are looking to start a business. 
       
       Q1: What is your first high-level takeaway from the story board?
       Q2: How long does it take you to understand the story?
