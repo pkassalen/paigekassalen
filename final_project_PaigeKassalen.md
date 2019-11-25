@@ -45,6 +45,5 @@ I do want to see if there is a way to make my final project interactive and allo
 ![image](https://user-images.githubusercontent.com/57044626/69504744-77532180-0ef3-11ea-92ce-37cf64fcd37d.png)
 
 ![image](https://user-images.githubusercontent.com/57044626/69504871-56d79700-0ef4-11ea-924d-1a2ff90f8661.png)
-
 ![image](https://user-images.githubusercontent.com/57044626/69504949-e715dc00-0ef4-11ea-8d1e-9dc08ead6c52.png)
 
