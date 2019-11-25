@@ -77,4 +77,29 @@ c. Interview script:
    Thank you for your help!"
 
 d. The findings from my interview:
+
+   Interview 1:
+   
+      Q1: What is your first high-level takeaway from the story board?
+            People want to be their own boss
+      
+      Q2: How long does it take you to understand the story?
+            I could understand the story quickly. You are trying to tell the story that people say entrepreneurship is good and there should be diversity, but due to a bunch of data, becoming an entrepreneur isn't as diverse as it should be. 
+      
+      Q3: What parts are confusing?
+	I was confused by the graphs and the different statistics because we went from entrepreneurship to patents. Maybe a transition explaining why patents are related is important. 
+      
+      Q4: What would you like to see more of? Less of?
+	More: Explanation of what the graphs mean and why they matter
+	Less: Graphs without explanation
+      
+      Q5: What do you think is missing?
+	How much money different groups of people get from the VCs. Also I think your graph sketches were not informative enough to help me understand your story.
+      
+      Q6: Is this story interesting? Why or why not? 
+	Yes, entrepreneurship is a popular career move now a days so it’s cool to see what factors affect someone’s success
+      
+      Q7: After reviewing this, what does the story make you want to do?
+	I don’t think I want to really do anything, but I think it’s important for me to keep in the back of my mind. 
+
 e. Changes I want to implemented in my sketches, storyboards and wireframes to address the issues identified: 
