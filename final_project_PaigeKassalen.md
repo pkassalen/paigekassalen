@@ -80,6 +80,39 @@ d. The findings from my interview:
 
    Interview 1:
    
+     Q1: What is your first high-level takeaway from the story board?
+	The subsection of people that can be entrepreneurs and get patents is smaller than I thought. I was surprised most of the VC spending went to 3 states and that only ¼ of small business owners are women. 
+
+     Q2: How long does it take you to understand the story?
+	I understood the flow, but I’m not sure if I understand the graphs. 
+
+     Q3: What parts are confusing?
+	There are just some typos and some poorly worded sentences. Diverse people can solve diverse issues. Add another sentence related to small businesses not solving the right problems. Non-diverse groups solve non-diverse problems. 
+
+	Not consistent wording also.
+
+     Q4: What would you like to see more of? Less of?
+	More: I like the diversity thing and the focus on diverse groups and diverse issues. I think you should focus on having people understand how to not fail when having a small business. 
+
+	I like the map but make sure the key is readable. If you have good graphs that showcase the data, I think it would be interesting. 
+
+	Less: The story is not that big, so I think everything is fine. 
+
+     Q5: What do you think is missing?
+	Explain what the recommendations are. I think you need to get to the root cause of what the problem is for why diverse small businesses fail. I think you should focus on lack of diversity leading to lack of ability to solve diverse problems, so how do we fix this? 
+
+	Focus on how to help people not fail at starting a business. 
+
+     Q6: Is this story interesting? Why or why not? 
+	I think it is interesting because I do think a lot of people want to be their own boss so if someone sees this and wants to start their own business they will have some takeaways from this. 
+
+     Q7: After reviewing this, what does the story make you want to do?
+	I want to expand my view of the next business I want to start to make sure I’m asking the next question and solving an actual problem. It makes me want to do more research about what I can do to get more opportunities as a women leader of a small businesses. 
+
+
+
+   Interview 2:
+   
       Q1: What is your first high-level takeaway from the story board?
             People want to be their own boss
       
@@ -101,5 +134,7 @@ d. The findings from my interview:
       
       Q7: After reviewing this, what does the story make you want to do?
 	I don’t think I want to really do anything, but I think it’s important for me to keep in the back of my mind. 
+	
+
 
 e. Changes I want to implemented in my sketches, storyboards and wireframes to address the issues identified: 
