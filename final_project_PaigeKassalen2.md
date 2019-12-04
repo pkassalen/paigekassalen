@@ -1,7 +1,5 @@
 # Storyboard
 
-Edit (11/25) - Virtual reality is best used for creating an emotional connection. I'm looking to have the user experience a diversity virtual reality experience through Youtube using a Google Cardboard headset to set the stage. 
-
 ![image](https://user-images.githubusercontent.com/57044626/69507971-6eb61780-0f02-11ea-8a8a-dce3a7149c7a.png)
 
 ![image](https://user-images.githubusercontent.com/57044626/69504744-77532180-0ef3-11ea-92ce-37cf64fcd37d.png)
