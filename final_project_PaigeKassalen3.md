@@ -23,6 +23,8 @@ My final story can be found here: [Final Project](https://carnegiemellon.shortha
 (n.d.). Retrieved November 10, 2019, from http://www.equality-of-opportunity.org/data/.
 106 Must-Know Startup Statistics for 2019. (2019, July 25). Retrieved November 20, 2019, from https://www.embroker.com/blog/startup-statistics.
 
+(n.d.). Retrieved November 28, 2019, from https://www.canva.com/.
+
 Duffin, E. (2019, May 13). Rate of new entrepreneurs, by race U.S. 2000-2017. Retrieved November 20, 2019, from https://www.statista.com/statistics/693431/rate-of-new-entrepreneurs-by-race-us/.
 
 Foundation, C. (2019, August 8). The State of Inclusive Entrepreneurship: By the Numbers. Retrieved November 20, 2019, from https://facesoffounders.org/the-state-of-inclusive-entrepreneurship-by-the-numbers-be422b8845ed.
