@@ -15,14 +15,14 @@ My dataset outlines different factors like gender, family income, and location f
 - Then, I will readdress the question "why does this matter" but providing some statistics about how diversity in innovation is important
 - I will end on "what can we do?" and create a roadmap for innovation
 
-# Initial sketches
+## Initial sketches
 
 Here are a few examples of how I will convey the data:
 
 ![image](https://user-images.githubusercontent.com/57044626/69016686-b40c9f00-096e-11ea-9695-8fa8718a581d.png)
 
 
-# The Data
+## The Data
 
 My data is "Who Becomes an Inventor in America? The Importance of Exposure to Innovation" and can be found at this link - http://www.equality-of-opportunity.org/data/
 
@@ -30,7 +30,7 @@ I will also be pulling information to support the story line from sites like thi
 
 This data set provides data to compare patents granted vs. different factors like city, state, number of kids in the city, gender, family income. Over 100 million start-ups are launched annually, but this dataset will allow me to explore if there are trends in relation to who has the opportunity to create a start-up and become an innovator. I want to break down the patents awarded compared to 4-5 different factors to see which are most influential in getting a patent. The overal goal of my story will be to develop a plan of action to help a diverse range of people become innovators. 
 
-# Method and Medium
+## Method and Medium
 
 In my previous job, I led a project to create a virtual reality experience so I considered trying something different like VR or AR for my final project. The one challenge is that I don't think it is the best way to visualize my story, but I am still doing some research on options like this. 
 
