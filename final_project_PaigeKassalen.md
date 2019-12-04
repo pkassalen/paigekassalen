@@ -1,4 +1,4 @@
-# Outline
+# The idea
 
 ## High-level summary of my project:
 
