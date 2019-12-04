@@ -17,6 +17,9 @@ This section is where all of my cool data visualization will go!
 ## Final Project
 
 [Final Project - Part 1](/final_project_PaigeKassalen.md)
+[Final Project - Part 2](/final_project_PaigeKassalen2.md)
+[Final Project - Part 3](/final_project_PaigeKassalen3.md)
+[Final Project - Part 4](/final_project_PaigeKassalen4.md)
 
 [Data Visualization 2](/dataviz2.md)
 
