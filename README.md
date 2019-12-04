@@ -24,6 +24,7 @@ This section is where all of my cool data visualization will go!
 
 [Final Project - Part 4](/final_project_PaigeKassalen4.md)
 
+## Other Projects
 
 [Data Visualization 2](/dataviz2.md)
 
