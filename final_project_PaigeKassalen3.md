@@ -1,4 +1,4 @@
-# Final data story
+# Final Data Story
 
 ## Intended Audience 
 
@@ -16,7 +16,7 @@ I also wanted to incorporate something the virtual reality or augmented reality 
 
 ## Final Data Story
 
-My final story can be found here: https://carnegiemellon.shorthandstories.com/paigekassalen/index.html
+My final story can be found here:[Final Project](https://carnegiemellon.shorthandstories.com/paigekassalen/index.html)
 
 ## References 
 
