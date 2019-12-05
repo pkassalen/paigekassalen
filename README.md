@@ -28,13 +28,13 @@ This section is where all of my cool data visualization will go!
 
 [General Government Debt - Data Visualization](/dataviz2.md)
 
-  Source: https://data.oecd.org/gga/general-government-debt.htm
+  Source: [OECD](https://data.oecd.org/gga/general-government-debt.htm)
   
 ## Redesign
 
 [Data Visualization Critique and Redesign](/datacrit1.md)
 
-  Source: https://www.economist.com/graphic-detail/2019/10/15/far-too-many-of-the-worlds-youngsters-are-overweight
+  Source: [Economist](https://www.economist.com/graphic-detail/2019/10/15/far-too-many-of-the-worlds-youngsters-are-overweight)
 
 ## Big Mac Comparison 
 
