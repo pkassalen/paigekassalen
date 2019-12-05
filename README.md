@@ -12,7 +12,7 @@ Being able to influence stakeholders is very supportive. In my last role, I coul
 
 # Portfolio
 
-This section is where all of my cool data visualization will go!
+This section is where all of my cool data visualization are housed!
 
 ## Final Project
 
