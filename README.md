@@ -24,11 +24,13 @@ This section is where all of my cool data visualization will go!
 
 [Final Project - Part 4](/final_project_PaigeKassalen4.md)
 
-## Other Projects
+## Data Visualization
 
 [General Government Debt - Data Visualization](/dataviz2.md)
 
   Source: https://data.oecd.org/gga/general-government-debt.htm
+  
+## Redesign
 
 [Data Visualization Critique and Redesign](/datacrit1.md)
 
@@ -36,5 +38,5 @@ This section is where all of my cool data visualization will go!
 
 ## Big Mac Comparison 
 
-
+[Price of Big Macs per country over time](/BigMac.md)
 
