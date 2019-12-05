@@ -10,7 +10,7 @@ For fun, I like to do a lot of DIY projects. I own a house in Mt. Washington whe
 
 Being able to influence stakeholders is very supportive. In my last role, I could never just say "this is a good idea." I needed to have solid evidence to back up my recommendations. This is a skill no one will ever perfect, so I am hoping to gain a deeper and well-rounded understanding of how to best communicate information in a way that is most influential to my audience.
 
-## Portfolio
+# Portfolio
 
 This section is where all of my cool data visualization will go!
 
@@ -26,13 +26,13 @@ This section is where all of my cool data visualization will go!
 
 ## Other Projects
 
-[Data Visualization 2](/dataviz2.md)
+[General Government Debt - Data Visualization](/dataviz2.md)
 
-Source: https://data.oecd.org/gga/general-government-debt.htm
+  Source: https://data.oecd.org/gga/general-government-debt.htm
 
-[Critique by Design 1](/datacrit1.md)
+[Data Visualization Critique and Redesign](/datacrit1.md)
 
-Source: https://www.economist.com/graphic-detail/2019/10/15/far-too-many-of-the-worlds-youngsters-are-overweight
+  Source: https://www.economist.com/graphic-detail/2019/10/15/far-too-many-of-the-worlds-youngsters-are-overweight
 
 ## Big Mac Comparison 
 
