@@ -18,7 +18,7 @@ To attempt at improving the graphic, I created two different types of wire diagr
 
 Feedback:
 
-Leah Kassalen – Sister
+Person 1
 
 •	Can you tell me what you think this is? 
     Graph showing the % obesity of children broken down by country for graph 1 and graph showing % of obesity broken down by region and then country.
@@ -35,7 +35,7 @@ Leah Kassalen – Sister
 •	Is there anything you would change or do differently?
     I would have more titles on the axis
 
-Kristin Chase – Friend
+Person 2
 
 •	Can you tell me what you think this is?
     This is a chart that explores the differences between countries and childhood obesity. 
